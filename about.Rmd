@@ -6,7 +6,7 @@ output:
     css: bootstrap.css
     toc: true
     toc_float: true
-    theme: darkly
+    theme: readable
 ---
 
 

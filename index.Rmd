@@ -6,14 +6,14 @@ output:
     css: bootstrap.css
     toc: true
     toc_float: true
-    theme: darkly
+    theme: readable
 ---
 
 # Predicting Video Game Popularity on STEAM specifically.
 
 ##Motivation:
 
-Amidst the burgeoning gaming industry, popular belief posits genres such as shooters, sports, and racing as perennial favorites. As gamers, our team believes that there is a "success formula" to guarantee the success of video games. Our team's avid gaming experience through STEAM has piqued our interest in this hypothesis. Our objective is to dissect and analyze the veracity of such claims and identify any characteristics that signal the popularity of STEAM games.
+Amidst the burgeoning gaming industry, popular belief posits genres such as shooters, sports, and racing as perennial favorites. As gamers, our team believes that there is a "success formula" to guarantee the success of video games. Our team's avid gaming experience through STEAM has piqued our interest in this hypothesis. Our objectsive is to dissect and analyze the veracity of such claims and identify any characteristics that signal the popularity of STEAM games.
 
 ##Final product:
 
